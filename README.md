@@ -1,5 +1,5 @@
 # PlexConnect_manager
-A simple AppleScript GUI for "PlexConnect" on Mac OS X
+A simple AppleScript GUI for [PlexConnect](https://github.com/iBaa/PlexConnect) on Mac OS X
 
 ## PlexConnect_manager.app
 It is the compiled AppleScript application ready to use on Mac OS X.
