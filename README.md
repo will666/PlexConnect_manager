@@ -8,5 +8,8 @@ It is the compiled AppleScript application ready to use on Mac OS X.
 ## PlexConnect_manager.scpt
 It is the uncompiled AppleScript script file.
 
+### Screenshot
+![screenshot](https://github.com/will666/PlexConnect_manager/blob/master/screenshot.png)
+
 ### Credits
 The app and dialog icon was generated from the original PNG file located there: https://forums.plex.tv/discussion/71729/icons-for-plexconnect
