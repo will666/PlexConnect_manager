@@ -11,5 +11,8 @@ It is the uncompiled AppleScript script file.
 ### Screenshot
 ![screenshot](https://github.com/will666/PlexConnect_manager/blob/master/screenshot.png)
 
+# Requirements
+Follow these instructions: [Run PlexConnect as launchctl daemon](https://github.com/iBaa/PlexConnect/wiki/Install-Guide-Mac)
+
 ### Credits
 The app and dialog icon was generated from the original PNG file located there: https://forums.plex.tv/discussion/71729/icons-for-plexconnect
